@@ -37,7 +37,7 @@ That all works well for modern dependency managers like Bundler, NPM, Composer a
 }
 ```
 
-Here is an example how it looks like with production data: 
+The dependency name is the `group_id` and `artifact_id` concatinated with `:`. Here is an example how it looks like with production data:
 
 ```
 {
